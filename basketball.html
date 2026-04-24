@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Basketball Player Tracker</title>
+  <link rel="stylesheet" href="basketball.css">
+</head>
+<body>
+
+  <h1>Player Stats Tracker</h1>
+
+  <div class="controls">
+    <button id="sortBtn">Sort by Points</button>
+
+    <select id="filterPosition">
+      <option value="all">All Positions</option>
+      <option value="G">Guard</option>
+      <option value="F">Forward</option>
+      <option value="C">Center</option>
+    </select>
+  </div>
+
+  <div id="players-container"></div>
+
+  <button id="runTests">Run Tests</button>
+  <div id="test-results"></div>
+
+  <script src="basketball.js"></script>
+</body>
+</html>
