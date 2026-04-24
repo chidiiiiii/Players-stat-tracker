@@ -1,0 +1,12 @@
+[
+  { "id": 1, "name": "Kyndra Sheets", "jerseyNumber": 2, "position": "G", "pointsPerGame": 9.1 },
+  { "id": 2, "name": "Izzy Shepherd", "jerseyNumber": 10, "position": "G", "pointsPerGame": 5.1 },
+  { "id": 3, "name": "Peyton Hartsough", "jerseyNumber": 12, "position": "G", "pointsPerGame": 4.1 },
+  { "id": 4, "name": "Kyndell Jochim", "jerseyNumber": 21, "position": "G/F", "pointsPerGame": 8.7 },
+  { "id": 5, "name": "Annaka Nelson", "jerseyNumber": 24, "position": "F", "pointsPerGame": 12.1 },
+  { "id": 6, "name": "Teegan Acres", "jerseyNumber": 30, "position": "G", "pointsPerGame": 2.8 },
+  { "id": 7, "name": "Lauryn Merritt", "jerseyNumber": 31, "position": "C", "pointsPerGame": 4.2 },
+  { "id": 8, "name": "Allison Price", "jerseyNumber": 32, "position": "F", "pointsPerGame": 10.5 },
+  { "id": 9, "name": "Addie Shank", "jerseyNumber": 33, "position": "C", "pointsPerGame": 10.6 },
+  { "id": 10, "name": "Liv Raby", "jerseyNumber": 44, "position": "C", "pointsPerGame": 12.9 }
+]
