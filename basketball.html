@@ -7,9 +7,12 @@
 </head>
 <body>
 
-  <h1>Player Stats Tracker</h1>
+  <header>
+    <h1>🏀 Player Stats Tracker</h1>
+    <p class="subtitle">Track performance, sort stats, and explore your team</p>
+  </header>
 
-  <div class="controls">
+  <section class="controls">
     <button id="sortBtn">Sort by Points</button>
 
     <select id="filterPosition">
@@ -18,12 +21,20 @@
       <option value="F">Forward</option>
       <option value="C">Center</option>
     </select>
-  </div>
+  </section>
 
-  <div id="players-container"></div>
+  <main>
+    <div id="players-container"></div>
+  </main>
 
-  <button id="runTests">Run Tests</button>
-  <div id="test-results"></div>
+  <section class="tests">
+    <button id="runTests">Run Tests</button>
+    <div id="test-results"></div>
+  </section>
+
+  <footer>
+    <p>Basketball Stats App • Web Scripting Project</p>
+  </footer>
 
   <script src="basketball.js"></script>
 </body>
